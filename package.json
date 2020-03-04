@@ -1,0 +1,27 @@
+{
+  "name": "Cypress_test_for_weather_app",
+  "version": "1.0.0",
+  "description": "This is a cypress test for my other weather react web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathan0137/Cypress_test_for_weather_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathan0137/Cypress_test_for_weather_app/issues"
+  },
+  "homepage": "https://github.com/Jonathan0137/Cypress_test_for_weather_app#readme",
+  "devDependencies": {
+    "cypress": "^4.1.0"
+  },
+  "dependencies": {
+    "mocha": "^7.1.0",
+    "mocha-allure-reporter": "^1.4.0"
+  }
+}
