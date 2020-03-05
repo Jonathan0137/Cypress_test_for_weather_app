@@ -37,7 +37,7 @@ pipeline {
             steps 
             {
                 echo 'Running tests'
-                sh 'npx cypress run --spec cypress/integration/examples/first_step.spec.js '
+                sh 'npx cypress run --spec cypress/integration/src/test.spec.js '
             }
         }
         
